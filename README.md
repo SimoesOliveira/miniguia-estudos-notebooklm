@@ -1,2 +1,2 @@
 # miniguia-estudos-notebooklm
-IA que analisa estratégias e decisões com base na Segunda Guerra Mundial utilizando NotebookLM
+IA educacional especializada na Segunda Guerra Mundial utilizando NotebookLM para ensino e análise histórica
