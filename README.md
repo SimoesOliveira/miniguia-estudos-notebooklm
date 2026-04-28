@@ -24,7 +24,7 @@
 - https://www.youtube.com/watch?v=GEnHJMUJBnc
 - https://www.youtube.com/watch?v=7GPgCUUyDUQ
 
-### 📄 Artigos
+### 📄 Links Úteis
 - https://brasilescola.uol.com.br/historiag/segunda-guerra-mundial.htm
 - https://www.theguardian.com/books/2012/jun/17/second-world-war-antony-beevor-review
 
